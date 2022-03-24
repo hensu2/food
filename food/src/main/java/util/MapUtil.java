@@ -5,7 +5,7 @@ public class MapUtil {
 		String ret = "";
 		ret+="<div class='size'>\n"
 				+ "        		<div id='map' style='width:100%;height:500px;'></div>\n"
-				+ "        		<script type='text/javascript' src='//dapi.kakao.com/v2/maps/sdk.js?appkey=b038000f5a39d076634791a2e7ad405b&libraries=services'></script>\n"
+				+ "        		<script type='text/javascript' src='//dapi.kakao.com/v2/maps/sdk.js?appkey=2c8069444d499a50b3d6619f421fef73&libraries=services'></script>\n"
 				+ "        		<script>\n"
 				+ "					var container = document.getElementById('map');\n"
 				+ "					var options = {\n"
